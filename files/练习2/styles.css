@@ -302,7 +302,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:66px;
+  width:64px;
   height:37px;
   background-image:none;
 }
@@ -319,7 +319,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:66px;
+  width:64px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -337,7 +337,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:66px;
+  width:64px;
   height:37px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -348,7 +348,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:66px;
+  width:64px;
   white-space:nowrap;
 }
 #u24_state1 {
