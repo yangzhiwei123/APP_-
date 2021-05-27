@@ -1,7 +1,0 @@
-回声“＃APP_-” >> README.md 
-git init 
-git add README.md 
-git commit -m“首次提交” 
-git branch -M main 
-git remote add origin https://github.com/yangzhiwei123/APP_-.git
- git push -u origin主
